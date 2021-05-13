@@ -1,0 +1,10 @@
+work
+king
+row
+know
+ring
+
+apple
+ball
+cat
+dog
